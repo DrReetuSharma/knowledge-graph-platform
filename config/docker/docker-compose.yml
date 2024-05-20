@@ -1,1 +1,25 @@
+version: '3.8'
+
+services:
+  neo4j:
+    image: neo4j:4.4.2
+    container_name: my_neo4j_container
+    environment:
+      NEO4J_AUTH: neo4j/password
+      NEO4J_dbms_memory_heap_initial__size: 1G
+      NEO4J_dbms_memory_heap_max__size: 2G
+      NEO4J_dbms_memory_pagecache_size: 1G
+    ports:
+      - "7474:7474" # HTTP
+      - "7687:7687" # Bolt
+      - "7473:7473" # HTTPS (if enabled)
+    volumes:
+      - ./data:/data
+      # Uncomment and modify the following line to include SSL/TLS certificates if needed
+      # - ./certificates:/var/lib/neo4j/certificates/
+    # Uncomment and modify the following lines to include custom plugins or extensions if needed
+    # volumes:
+    #   - ./plugins:/plugins
+    # environment:
+    #   NEO4J_dbms_unmanaged__extension__classes: com.example.extensions=/extensions
 
