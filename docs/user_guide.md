@@ -18,7 +18,7 @@ Welcome to the Drug Information Platform! This guide provides an overview of the
 
 ## Getting Started
 
-To access the Drug Information Platform, visit [https://example.com](https://example.com) and log in with your credentials. If you don't have an account yet, you can sign up for free.
+To access the Drug Information Platform, visit ([https://www.ebi.ac.uk/chembl/](https://www.ebi.ac.uk/chembl/)) and log in with your credentials. If you don't have an account yet, you can sign up for free.
 
 ## Searching for Drugs
 
