@@ -1,0 +1,51 @@
+drug_id,drug_name,target_id,target_name,disease_id,disease_name
+1,Lisinopril,T1,ACE,D1,Hypertension
+2,Losartan,T2,Angiotensin II receptor,D1,Hypertension
+3,Amlodipine,T3,Calcium channel,D1,Hypertension
+4,Hydrochlorothiazide,T4,Thiazide-sensitive sodium-chloride symporter,D1,Hypertension
+5,Metoprolol,T5,Beta-1 adrenergic receptor,D1,Hypertension
+6,Valsartan,T2,Angiotensin II receptor,D1,Hypertension
+7,Atenolol,T5,Beta-1 adrenergic receptor,D1,Hypertension
+8,Chlorthalidone,T4,Thiazide-sensitive sodium-chloride symporter,D1,Hypertension
+9,Diltiazem,T3,Calcium channel,D1,Hypertension
+10,Enalapril,T1,ACE,D1,Hypertension
+11,Propranolol,T6,Beta adrenergic receptor,D1,Hypertension
+12,Ramipril,T1,ACE,D1,Hypertension
+13,Olmesartan,T2,Angiotensin II receptor,D1,Hypertension
+14,Benazepril,T1,ACE,D1,Hypertension
+15,Fosinopril,T1,ACE,D1,Hypertension
+16,Irbesartan,T2,Angiotensin II receptor,D1,Hypertension
+17,Telmisartan,T2,Angiotensin II receptor,D1,Hypertension
+18,Verapamil,T3,Calcium channel,D1,Hypertension
+19,Bisoprolol,T5,Beta-1 adrenergic receptor,D1,Hypertension
+20,Nifedipine,T3,Calcium channel,D1,Hypertension
+21,Carvedilol,T6,Beta adrenergic receptor,D1,Hypertension
+22,Candesartan,T2,Angiotensin II receptor,D1,Hypertension
+23,Labetalol,T6,Beta adrenergic receptor,D1,Hypertension
+24,Quinapril,T1,ACE,D1,Hypertension
+25,Spironolactone,T7,Mineralocorticoid receptor,D1,Hypertension
+26,Eplerenone,T7,Mineralocorticoid receptor,D1,Hypertension
+27,Indapamide,T4,Thiazide-sensitive sodium-chloride symporter,D1,Hypertension
+28,Furosemide,T8,Sodium-potassium-chloride cotransporter,D1,Hypertension
+29,Torsemide,T8,Sodium-potassium-chloride cotransporter,D1,Hypertension
+30,Amiloride,T9,ENaC,D1,Hypertension
+31,Triamterene,T9,ENaC,D1,Hypertension
+32,Clonidine,T10,Alpha-2 adrenergic receptor,D1,Hypertension
+33,Methyldopa,T10,Alpha-2 adrenergic receptor,D1,Hypertension
+34,Hydralazine,T11,Vascular smooth muscle,D1,Hypertension
+35,Minoxidil,T11,Vascular smooth muscle,D1,Hypertension
+36,Guanfacine,T10,Alpha-2 adrenergic receptor,D1,Hypertension
+37,Moxonidine,T10,Alpha-2 adrenergic receptor,D1,Hypertension
+38,Perindopril,T1,ACE,D1,Hypertension
+39,Trandolapril,T1,ACE,D1,Hypertension
+40,Azilsartan,T2,Angiotensin II receptor,D1,Hypertension
+41,Mannitol,T12,Osmotic diuretic,D1,Hypertension
+42,Nadolol,T6,Beta adrenergic receptor,D1,Hypertension
+43,Timolol,T6,Beta adrenergic receptor,D1,Hypertension
+44,Acebutolol,T5,Beta-1 adrenergic receptor,D1,Hypertension
+45,Esmolol,T5,Beta-1 adrenergic receptor,D1,Hypertension
+46,Nebivolol,T5,Beta-1 adrenergic receptor,D1,Hypertension
+47,Sotalol,T6,Beta adrenergic receptor,D1,Hypertension
+48,Aliskiren,T13,Renin,D1,Hypertension
+49,Doxazosin,T14,Alpha-1 adrenergic receptor,D1,Hypertension
+50,Prazosin,T14,Alpha-1 adrenergic receptor,D1,Hypertension
