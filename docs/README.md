@@ -22,3 +22,18 @@ Docker: Containerization technology for consistent deployment.
 Docker and Docker Compose installed.
 Python 3.7+ installed.
 Neo4j database setup.
+
+## Documentation
+For detailed instructions on setting up and using the platform, refer to the [User Guide](docs/user_guide.md) and [API Documentation](docs/api_documentation.md).
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure you follow the project's coding standards and include relevant tests.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+For questions or support, please contact:
+Dr Reetu Sharma  
+[Email](mailto:sharmar@aspire10x.com)  
+[Website](https://aspire10x.com/)  
