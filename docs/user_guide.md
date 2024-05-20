@@ -54,8 +54,6 @@ To access the Drug Information Platform, visit ([https://www.ebi.ac.uk/chembl/](
 ## Help and Support
 
 - FAQ: Visit the FAQ section for answers to common questions about using the platform.
-- Contact Support: If you need further assistance or encounter any issues, reach out to our support team at support@example.com.
+- Contact Support: If you need further assistance or encounter any issues, reach out to our support team at connect@aspire10x.com.
 
----
 
-This user guide provides an introduction to the Drug Information Platform's key features and functionalities. Adjust the content and sections based on your actual platform's capabilities and user interface.
